@@ -1,5 +1,5 @@
 * {
-  background-color: black;
+  background-color: gray;
 }
 
 div {
@@ -10,18 +10,3 @@ div {
     font-weight: bold;
   }
 
-
-  .btn-display {
-  background-color:red; 
-  font-size: 18px;
-  padding: 30px;
-  }
-
-
-  button {
-    background-color: orange; 
-  }
-
-  #test {
-    padding: 500px;
-  }
